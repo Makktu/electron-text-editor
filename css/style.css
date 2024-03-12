@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+main {
+  text-align: center;
+  padding: 20px;
+}
+
+.input_area {
+  width: 90vw;
+  height: 90vh;
+  background-color: rgb(20, 19, 19);
+  color: white;
+  border: none;
+}
